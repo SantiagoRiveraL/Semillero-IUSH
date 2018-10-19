@@ -1,0 +1,67 @@
+body{
+    font-size:16px;
+    text-align: center;
+    background-color: rgb(207, 210, 212);
+}
+
+.head-foot{
+    text-align: center;
+    border: solid 1px;
+    background-color: #ffff;
+}
+
+footer{
+    padding: 3em;
+}
+
+#logo,#logo-img{
+    text-align: left;
+    height:10em ;
+    width: 10em;
+}
+
+.boton{
+    position: relative;
+    top: -5em;
+    padding: 1em;
+    margin: 0px 3em;
+    border-radius: 7px;
+    background-color: #5ff767;
+    color: #ffff;
+    border: solid 1px black;
+}
+
+#boton2{
+    background-color: #2a85cf;
+    color: #000000;
+    border: solid 5px black;
+}
+#boton4{
+    background-color: #f0ed4a;
+    color: #000000;
+}
+.Titulo{
+    color:rgb(173, 37, 37);
+    text-decoration: underline;
+}
+
+.container{
+    margin: 5em;
+    padding: 3em;
+    background-color:rgb(102, 207, 137);
+    border-radius: 15px;
+}
+
+.descripcion{
+    background-color: #ffff;
+    border-radius:15px;
+    border: solid 1px black;
+    margin: 2em;
+    padding: 2em;
+}
+
+.redes{
+    margin:0px 3em;
+}
+
+
